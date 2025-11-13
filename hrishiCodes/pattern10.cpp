@@ -1,4 +1,4 @@
-//printing pascal traingle
+//printing pascal triangle
 #include <iostream>
 using namespace std;
 
